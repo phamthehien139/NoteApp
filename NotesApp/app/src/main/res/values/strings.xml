@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="notes">My Notes</string>
+    <string name="notes_title">Ghi chú tiêu đề</string>
+    <string name="notes_sub_title">Tiêu đề phụ ghi chú</string>
+    <string name="notes_desc">Nhập ghi chú ở đây</string>
+    <string name="web_url">Nhập Url web</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">Ứng dụng này cần quyền truy cập vào kho lưu trữ của bạn.</string>
+    <string name="search">Tìm kiếm ghi chú của bạn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
